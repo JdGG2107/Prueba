@@ -1,3 +1,3 @@
 import random
-emojis = ["^^", "0_o", ":)", "¯\\_(ツ)_/¯", "(￢_￢)"]
-print(random.choice(emojis))
+datos = ["Juan", "Diego", "2107", "Colombiano", "basket"]
+print(random.choice(datos))
